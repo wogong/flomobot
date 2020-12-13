@@ -1,6 +1,6 @@
 # flomo bot
 
-使用 Telegram 机器人发送笔记到你的 Flomo. 你需要有一台可访问 Telegram 服务器的服务器(主机/VPS)。
+使用 Telegram 机器人发送笔记到你的 Flomo. 你需要有一台可访问 Telegram 的服务器。
 
 ## Steps
 
