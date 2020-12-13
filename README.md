@@ -16,4 +16,4 @@
 
 PS:
 
-[Flomo]((https://flomoapp.com/)) 是一个崇尚无压输入的笔记工具，欢迎使用我的邀请链接注册 <https://flomoapp.com/register2/?Njg4NQ>
+[Flomo](https://flomoapp.com/) 是一个崇尚无压输入的笔记工具，欢迎使用我的邀请链接注册 <https://flomoapp.com/register2/?Njg4NQ>
