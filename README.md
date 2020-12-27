@@ -6,9 +6,10 @@
 
 1. @BotFather 新建机器人，获取 token
 2. Flomo 官网获取 API，链接 <https://flomoapp.com/mine?source=incoming_webhook>
-3. `cp config-example.py config.py`, 修改对应字段为前两步获取的值
-4. 安装依赖 `pip install -r requirements.txt`
-5. `python floambot.py`
+3. 通过 @userinfobot Bot 获取你的 UserID
+4. `cp config-example.py config.py`, 修改对应字段为前三步获取的值
+5. 安装依赖 `pip install -r requirements.txt`
+6. `python floambot.py`
 
 ## Usage
 

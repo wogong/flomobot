@@ -52,9 +52,13 @@ def echo(update, context):
 
 def flomo(update, context):
     """Add the user message to float."""
-    data = {'content': update.message.text}
-    r = requests.post(FLOMO_API, data)
-    update.message.reply_text('{} {}'.format(r.status_code, r.reason))
+    chat_id = update.message.chat.id
+    if (chat_id != int(CHAT_ID)):
+        update.message.reply_text('You are not the owner of this bot.')
+    else:
+        data = {'content': update.message.text}
+        r = requests.post(FLOMO_API, data)
+        update.message.reply_text('{} {}'.format(r.status_code, r.reason))
 
 
 def error(update, context):
