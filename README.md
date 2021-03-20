@@ -1,5 +1,7 @@
 # flomo bot
 
+Note: 官方已支持 Telegram 发送到 Flomo，详情见 <https://help.flomoapp.com/advance/extension/tgbot>
+
 使用 Telegram 机器人发送笔记到你的 Flomo. 你需要有一台可访问 Telegram 的服务器。
 
 ## Steps
